@@ -12,9 +12,9 @@
 ##### Possible problems
 
 - Update Client do not open
- - Verify on Properties if are Running with `Windows 7 Service` and Run with Administration Permission.
+  - Verify on Properties if are Running with `Windows 7 Service` and Run with Administration Permission.
 - Anti Virus Alert for Avast.
- - To create our client we need to change the hexcode of kRO client, because this you have this report.
+  - To create our client we need to change the hexcode of kRO client, because this you have this report.
   
 
 
